@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/gcanti/tcomb-form-native",
   "dependencies": {
+    "@react-native-picker/picker": "^2.2.1",
     "tcomb-validation": "^3.0.0"
   },
   "devDependencies": {
