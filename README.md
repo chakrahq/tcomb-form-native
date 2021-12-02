@@ -24,6 +24,8 @@
 
 ```
 npm install tcomb-form-native
+
+This package has a peer dependency on [@react-native-picker/picker](https://github.com/react-native-picker/picker). Please make sure you install it correctly.
 ```
 
 # Supported react-native versions
